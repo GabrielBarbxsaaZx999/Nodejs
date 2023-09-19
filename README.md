@@ -10,4 +10,4 @@ http.createServer(function (req, res) { res.writeHead(200, {'Content-Type': 'tex
 
     Ativar o arquivo do index, exemplo "node index.js"
     Abrir o navegador e pesquisar "localhost:Portausada"
-    Se aparecer os dados fornecidos está correto
+    Com o aparecimento dos dados fornecidos está correto
